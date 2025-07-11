@@ -14,9 +14,14 @@ This guide provides a **general** step-by-step workflow for using Enroot (or sim
 
 ## Prerequisites
 
+- **Interactive allocation**: Obtain a compute node shell where Enroot is available (e.g., `srun --gres=gpu:1 --time=02:00:00 --pty bash -l`).
+
 - **Enroot** or equivalent container runtime installed and configured on the HPC system.
+
 - **Scheduler** (SLURM, PBS, etc.) for batch jobs, if needed.
+
 - Access credentials for private registries (e.g., NVIDIA NGC) stored in `~/.config/enroot/.credentials` or similar.
+
 - A **project directory** on shared storage (e.g. GPFS, Lustre), referred to below as `$PROJECT_DIR`.
 
 ---
