@@ -4,3 +4,5 @@ A place to dump dumb CLI processes.
 [1] [HPC Clusters](https://github.com/ryanzhangofficial/Vault-of-Headaches/blob/main/hpc_clusters.md)
 
 [2] [Java Installation](https://github.com/ryanzhangofficial/Vault-of-Headaches/blob/main/java_installation.md)
+
+[3] [Commit Identity Fix](https://github.com/ryanzhangofficial/Vault-of-Headaches/blob/main/commit_identity_fix.md)
